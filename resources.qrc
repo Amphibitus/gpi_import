@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/gpi_import" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
